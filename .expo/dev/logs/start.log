@@ -687,3 +687,23 @@
 {"_e":"metro:client_log","_t":1786890439268,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
 {"_e":"metro:client_log","_t":1786890439268,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
 {"_e":"metro:client_log","_t":1786890439268,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"root:init","_t":1786891328573,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1786891328574,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786891328576,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786891328876,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786891329170,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786891329612,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786891333076,"atlas":false,"workers":12,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1786891335351,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786891335352,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786891335359,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786891335459,"id":"1","progress":0.20359904818560381,"total":164,"current":74}
+{"_e":"metro:bundling:progress","_t":1786891335559,"id":"1","progress":0.308641975308642,"total":405,"current":225}
+{"_e":"metro:bundling:progress","_t":1786891335659,"id":"1","progress":0.7515268360850889,"total":556,"current":482}
+{"_e":"metro:bundling:progress","_t":1786891335759,"id":"1","progress":0.8657088846880907,"total":690,"current":642}
+{"_e":"metro:bundling:done","_t":1786891335864,"id":"1","total":690,"ms":513.2477}
+{"_e":"metro:client_log","_t":1786891336162,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786891336162,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786891336163,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786891336163,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786891336163,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
