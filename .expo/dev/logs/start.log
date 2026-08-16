@@ -1,0 +1,689 @@
+{"_e":"root:init","_t":1786842885177,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1786842885178,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786842885181,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786842885656,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786842886290,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786842886951,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786842890986,"atlas":false,"workers":12,"host":"::","port":8081}
+{"_e":"root:init","_t":1786843271930,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1786843271931,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786843271933,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786843272148,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786843272441,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786843272789,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786843276136,"atlas":false,"workers":12,"host":"::","port":8081}
+{"_e":"root:init","_t":1786843366705,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1786843366705,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786843366708,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786843366897,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786843367188,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786843367646,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786843371716,"atlas":false,"workers":12,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1786843376322,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786843376322,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786843376325,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786843377089,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1786843377191,"id":"1","progress":0.09,"total":7,"current":3}
+{"_e":"metro:bundling:progress","_t":1786843377297,"id":"1","progress":0.09,"total":9,"current":3}
+{"_e":"metro:bundling:progress","_t":1786843377407,"id":"1","progress":0.16000000000000003,"total":9,"current":4}
+{"_e":"metro:bundling:progress","_t":1786843378006,"id":"1","progress":0.25,"total":9,"current":5}
+{"_e":"metro:bundling:progress","_t":1786843378105,"id":"1","progress":0.25,"total":26,"current":13}
+{"_e":"metro:bundling:progress","_t":1786843378207,"id":"1","progress":0.25,"total":51,"current":19}
+{"_e":"metro:bundling:progress","_t":1786843378310,"id":"1","progress":0.25,"total":77,"current":25}
+{"_e":"metro:bundling:progress","_t":1786843378418,"id":"1","progress":0.25,"total":79,"current":30}
+{"_e":"metro:bundling:progress","_t":1786843378538,"id":"1","progress":0.25,"total":87,"current":39}
+{"_e":"metro:bundling:progress","_t":1786843378644,"id":"1","progress":0.25,"total":98,"current":46}
+{"_e":"metro:bundling:progress","_t":1786843378743,"id":"1","progress":0.25,"total":123,"current":52}
+{"_e":"metro:bundling:progress","_t":1786843378846,"id":"1","progress":0.25,"total":166,"current":66}
+{"_e":"metro:bundling:progress","_t":1786843378954,"id":"1","progress":0.25,"total":178,"current":76}
+{"_e":"metro:bundling:progress","_t":1786843379070,"id":"1","progress":0.25,"total":216,"current":85}
+{"_e":"metro:bundling:progress","_t":1786843379172,"id":"1","progress":0.25,"total":219,"current":95}
+{"_e":"metro:bundling:progress","_t":1786843379271,"id":"1","progress":0.25,"total":236,"current":106}
+{"_e":"metro:bundling:progress","_t":1786843379374,"id":"1","progress":0.27091171728030095,"total":244,"current":127}
+{"_e":"metro:bundling:progress","_t":1786843379478,"id":"1","progress":0.3398842793686177,"total":247,"current":144}
+{"_e":"metro:bundling:progress","_t":1786843379578,"id":"1","progress":0.4480359001040582,"total":248,"current":166}
+{"_e":"metro:bundling:progress","_t":1786843379679,"id":"1","progress":0.5031097890751758,"total":258,"current":183}
+{"_e":"metro:bundling:progress","_t":1786843379779,"id":"1","progress":0.5639376990942587,"total":261,"current":196}
+{"_e":"metro:bundling:progress","_t":1786843379879,"id":"1","progress":0.5639376990942587,"total":284,"current":207}
+{"_e":"metro:bundling:progress","_t":1786843379983,"id":"1","progress":0.5639376990942587,"total":324,"current":221}
+{"_e":"metro:bundling:progress","_t":1786843380087,"id":"1","progress":0.5639376990942587,"total":332,"current":232}
+{"_e":"metro:bundling:progress","_t":1786843380191,"id":"1","progress":0.5639376990942587,"total":365,"current":248}
+{"_e":"metro:bundling:progress","_t":1786843380303,"id":"1","progress":0.5639376990942587,"total":369,"current":262}
+{"_e":"metro:bundling:progress","_t":1786843380404,"id":"1","progress":0.5639376990942587,"total":403,"current":278}
+{"_e":"metro:bundling:progress","_t":1786843380504,"id":"1","progress":0.5639376990942587,"total":423,"current":306}
+{"_e":"metro:bundling:progress","_t":1786843380605,"id":"1","progress":0.5639376990942587,"total":441,"current":328}
+{"_e":"metro:bundling:progress","_t":1786843380709,"id":"1","progress":0.5877777777777778,"total":450,"current":345}
+{"_e":"metro:bundling:progress","_t":1786843380810,"id":"1","progress":0.616140594288357,"total":465,"current":365}
+{"_e":"metro:bundling:progress","_t":1786843380913,"id":"1","progress":0.616140594288357,"total":506,"current":377}
+{"_e":"metro:bundling:progress","_t":1786843381013,"id":"1","progress":0.616140594288357,"total":512,"current":399}
+{"_e":"metro:bundling:progress","_t":1786843381113,"id":"1","progress":0.6631062258454332,"total":517,"current":421}
+{"_e":"metro:bundling:progress","_t":1786843381213,"id":"1","progress":0.7162233688235654,"total":527,"current":446}
+{"_e":"metro:bundling:progress","_t":1786843381315,"id":"1","progress":0.7480789470905244,"total":533,"current":461}
+{"_e":"metro:bundling:progress","_t":1786843381414,"id":"1","progress":0.789389311922168,"total":538,"current":478}
+{"_e":"metro:bundling:progress","_t":1786843381515,"id":"1","progress":0.789389311922168,"total":554,"current":486}
+{"_e":"metro:bundling:progress","_t":1786843381616,"id":"1","progress":0.789389311922168,"total":571,"current":501}
+{"_e":"metro:bundling:progress","_t":1786843381718,"id":"1","progress":0.789389311922168,"total":595,"current":519}
+{"_e":"metro:bundling:progress","_t":1786843381817,"id":"1","progress":0.789389311922168,"total":647,"current":535}
+{"_e":"metro:bundling:progress","_t":1786843381918,"id":"1","progress":0.789389311922168,"total":650,"current":565}
+{"_e":"metro:bundling:progress","_t":1786843382018,"id":"1","progress":0.789389311922168,"total":657,"current":583}
+{"_e":"metro:bundling:progress","_t":1786843382129,"id":"1","progress":0.841654717780844,"total":666,"current":611}
+{"_e":"metro:bundling:progress","_t":1786843382230,"id":"1","progress":0.8570393394481418,"total":687,"current":636}
+{"_e":"metro:bundling:progress","_t":1786843382330,"id":"1","progress":0.9155323223435641,"total":695,"current":665}
+{"_e":"metro:bundling:progress","_t":1786843382430,"id":"1","progress":0.9857450148485165,"total":699,"current":694}
+{"_e":"metro:bundling:progress","_t":1786843382533,"id":"1","progress":0.9971448979591836,"total":700,"current":699}
+{"_e":"metro:bundling:progress","_t":1786843383558,"id":"1","progress":0.999,"total":700,"current":700}
+{"_e":"metro:bundling:progress","_t":1786843383658,"id":"1","progress":0.999,"total":702,"current":702}
+{"_e":"metro:bundling:done","_t":1786843383828,"id":"1","total":702,"ms":7506.0763}
+{"_e":"metro:client_log","_t":1786843384209,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786843384210,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786843384210,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786843384210,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786843384210,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"root:init","_t":1786843416452,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1786843416452,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786843416455,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786843416686,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786843416981,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786843417416,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786843421690,"atlas":false,"workers":12,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1786843424439,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786843424440,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786843424443,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786843424543,"id":"1","progress":0.2168288561272653,"total":262,"current":122}
+{"_e":"metro:bundling:progress","_t":1786843424643,"id":"1","progress":0.6347541204794894,"total":487,"current":388}
+{"_e":"metro:bundling:progress","_t":1786843424750,"id":"1","progress":0.8259602076124567,"total":680,"current":618}
+{"_e":"metro:bundling:done","_t":1786843424808,"id":"1","total":680,"ms":368.5532}
+{"_e":"metro:client_log","_t":1786843425129,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786843425130,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786843425130,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786843425130,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786843425130,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"root:init","_t":1786843682981,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1786843682982,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786843682984,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786843683173,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786843683457,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786843683771,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786843687057,"atlas":false,"workers":12,"host":"::","port":8081}
+{"_e":"root:init","_t":1786843756795,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1786843756796,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786843756798,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786843757010,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786843757320,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786843757779,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786843761159,"atlas":false,"workers":12,"host":"::","port":8081}
+{"_e":"root:init","_t":1786843786578,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1786843786579,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786843786581,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786843786769,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786843787052,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786843787502,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786843791196,"atlas":false,"workers":12,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1786843806170,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786843806170,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786843806174,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786843806274,"id":"1","progress":0.2238905413444378,"total":205,"current":97}
+{"_e":"metro:bundling:progress","_t":1786843806374,"id":"1","progress":0.3022264300388604,"total":402,"current":221}
+{"_e":"metro:bundling:progress","_t":1786843806474,"id":"1","progress":0.7682903591682418,"total":575,"current":504}
+{"_e":"metro:bundling:progress","_t":1786843806574,"id":"1","progress":0.8487619954270754,"total":686,"current":632}
+{"_e":"metro:bundling:done","_t":1786843806635,"id":"1","total":686,"ms":465.5612}
+{"_e":"metro:client_log","_t":1786843806965,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786843806965,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786843806965,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786843806966,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786843806966,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"root:init","_t":1786846834750,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1786846834751,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786846834753,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786846835090,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786846835426,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786846835832,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786846840295,"atlas":false,"workers":12,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1786846889104,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786846889104,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786846889111,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786846889211,"id":"1","progress":0.16472050559338947,"total":239,"current":97}
+{"_e":"metro:bundling:progress","_t":1786846889312,"id":"1","progress":0.40292115297984255,"total":397,"current":252}
+{"_e":"metro:bundling:progress","_t":1786846889412,"id":"1","progress":0.7904886207167531,"total":541,"current":481}
+{"_e":"metro:bundling:progress","_t":1786846889512,"id":"1","progress":0.9122876093499007,"total":691,"current":660}
+{"_e":"metro:bundling:done","_t":1786846889566,"id":"1","total":691,"ms":461.8923}
+{"_e":"metro:client_log","_t":1786846889851,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786846889851,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786846889852,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786846889852,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786846889852,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"root:init","_t":1786887882444,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1786887882445,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786887882448,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786887882900,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786887883392,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786887883906,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786887892898,"atlas":false,"workers":12,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1786887911036,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786887911037,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786887911041,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786887911141,"id":"1","progress":0.19288714390065742,"total":148,"current":65}
+{"_e":"metro:bundling:progress","_t":1786887911241,"id":"1","progress":0.20039359303522786,"total":277,"current":124}
+{"_e":"metro:bundling:progress","_t":1786887911341,"id":"1","progress":0.4518649748083119,"total":421,"current":283}
+{"_e":"metro:bundling:progress","_t":1786887911450,"id":"1","progress":0.6645430051988245,"total":487,"current":397}
+{"_e":"metro:bundling:progress","_t":1786887911549,"id":"1","progress":0.8769986949463654,"total":614,"current":575}
+{"_e":"metro:bundling:progress","_t":1786887911649,"id":"1","progress":0.8934880283035322,"total":694,"current":656}
+{"_e":"metro:bundling:done","_t":1786887911709,"id":"1","total":694,"ms":672.9085}
+{"_e":"metro:client_log","_t":1786887911996,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786887911997,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786887911997,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786887911997,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786887911997,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"metro:bundling:started","_t":1786887926177,"id":"4","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786887926178,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1786887926217,"id":"4","total":1,"ms":39.165}
+{"_e":"metro:client_log","_t":1786887926582,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786887926582,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786887926582,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786887926582,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786887926582,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"metro:bundling:started","_t":1786888065824,"id":"7","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786888065824,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1786888065854,"id":"7","total":1,"ms":29.585}
+{"_e":"metro:client_log","_t":1786888066146,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786888066146,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786888066146,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786888066146,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786888066146,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"metro:bundling:started","_t":1786888111710,"id":"a","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786888111710,"id":"a","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1786888111740,"id":"a","total":1,"ms":29.5624}
+{"_e":"metro:client_log","_t":1786888112031,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786888112031,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786888112031,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786888112031,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786888112031,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"metro:bundling:started","_t":1786888112638,"id":"c","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786888112639,"id":"c","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1786888112679,"id":"c","total":1,"ms":40.1538}
+{"_e":"metro:client_log","_t":1786888112882,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786888112883,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786888112883,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786888112883,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786888112883,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"metro:bundling:started","_t":1786888129585,"id":"e","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786888129585,"id":"e","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1786888129619,"id":"e","total":1,"ms":33.9638}
+{"_e":"metro:client_log","_t":1786888129910,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786888129910,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786888129910,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786888129911,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786888129911,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"metro:bundling:started","_t":1786888170089,"id":"g","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786888170089,"id":"g","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1786888170130,"id":"g","total":1,"ms":41.0115}
+{"_e":"metro:client_log","_t":1786888170451,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786888170451,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786888170451,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786888170452,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786888170452,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"metro:bundling:started","_t":1786888426899,"id":"i","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786888426899,"id":"i","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1786888426924,"id":"i","total":1,"ms":24.8691}
+{"_e":"metro:client_log","_t":1786888427210,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786888427210,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786888427210,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786888427210,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786888427210,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"root:init","_t":1786888449147,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1786888449148,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786888449150,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786888449424,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786888449720,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786888450222,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786888454421,"atlas":false,"workers":12,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1786888465602,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786888465603,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786888465606,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786888465706,"id":"1","progress":0.2681760204081633,"total":224,"current":116}
+{"_e":"metro:bundling:progress","_t":1786888465806,"id":"1","progress":0.45627426960059175,"total":416,"current":281}
+{"_e":"metro:bundling:progress","_t":1786888465906,"id":"1","progress":0.819025,"total":600,"current":543}
+{"_e":"metro:bundling:done","_t":1786888466016,"id":"1","total":600,"ms":412.8424}
+{"_e":"metro:client_log","_t":1786888466332,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786888466332,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786888466332,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786888466332,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786888466332,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"metro:bundling:started","_t":1786888481601,"id":"4","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786888481602,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1786888481677,"id":"4","total":1,"ms":75.768}
+{"_e":"metro:client_log","_t":1786888482025,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786888482025,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786888482025,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786888482025,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786888482027,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"root:init","_t":1786888559539,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1786888559540,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786888559543,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786888559928,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786888560244,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786888560778,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786888565356,"atlas":false,"workers":12,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1786888600892,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786888600893,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786888600898,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786888601455,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1786888601555,"id":"1","progress":0.010000000000000002,"total":3,"current":1}
+{"_e":"metro:bundling:progress","_t":1786888601583,"id":"1","progress":0.04000000000000001,"total":3,"current":2}
+{"_e":"metro:bundling:progress","_t":1786888601693,"id":"1","progress":0.04591836734693877,"total":14,"current":3}
+{"_e":"metro:bundling:progress","_t":1786888601754,"id":"1","progress":0.08163265306122448,"total":14,"current":4}
+{"_e":"metro:bundling:progress","_t":1786888601857,"id":"1","progress":0.08163265306122448,"total":21,"current":4}
+{"_e":"metro:bundling:progress","_t":1786888601919,"id":"1","progress":0.08163265306122448,"total":21,"current":5}
+{"_e":"metro:bundling:progress","_t":1786888602021,"id":"1","progress":0.08163265306122448,"total":25,"current":6}
+{"_e":"metro:bundling:progress","_t":1786888602126,"id":"1","progress":0.08163265306122448,"total":33,"current":7}
+{"_e":"metro:bundling:progress","_t":1786888602172,"id":"1","progress":0.08163265306122448,"total":33,"current":8}
+{"_e":"metro:bundling:progress","_t":1786888602283,"id":"1","progress":0.08163265306122448,"total":35,"current":9}
+{"_e":"metro:bundling:progress","_t":1786888602391,"id":"1","progress":0.08163265306122448,"total":42,"current":11}
+{"_e":"metro:bundling:progress","_t":1786888602505,"id":"1","progress":0.1111111111111111,"total":45,"current":15}
+{"_e":"metro:bundling:progress","_t":1786888602637,"id":"1","progress":0.12641975308641976,"total":45,"current":16}
+{"_e":"metro:bundling:progress","_t":1786888602747,"id":"1","progress":0.12641975308641976,"total":50,"current":16}
+{"_e":"metro:bundling:progress","_t":1786888602752,"id":"1","progress":0.12641975308641976,"total":50,"current":17}
+{"_e":"metro:bundling:progress","_t":1786888602859,"id":"1","progress":0.12641975308641976,"total":54,"current":19}
+{"_e":"metro:bundling:progress","_t":1786888602960,"id":"1","progress":0.15433673469387754,"total":56,"current":22}
+{"_e":"metro:bundling:progress","_t":1786888603053,"id":"1","progress":0.1686862244897959,"total":56,"current":23}
+{"_e":"metro:bundling:progress","_t":1786888603158,"id":"1","progress":0.1816715936576189,"total":61,"current":26}
+{"_e":"metro:bundling:progress","_t":1786888603257,"id":"1","progress":0.21407885943417243,"total":67,"current":31}
+{"_e":"metro:bundling:progress","_t":1786888603373,"id":"1","progress":0.25,"total":78,"current":39}
+{"_e":"metro:bundling:progress","_t":1786888603476,"id":"1","progress":0.25,"total":99,"current":47}
+{"_e":"metro:bundling:progress","_t":1786888603576,"id":"1","progress":0.25,"total":130,"current":56}
+{"_e":"metro:bundling:progress","_t":1786888603709,"id":"1","progress":0.25,"total":153,"current":64}
+{"_e":"metro:bundling:progress","_t":1786888603810,"id":"1","progress":0.25,"total":168,"current":72}
+{"_e":"metro:bundling:progress","_t":1786888603912,"id":"1","progress":0.25,"total":200,"current":83}
+{"_e":"metro:bundling:progress","_t":1786888604024,"id":"1","progress":0.25,"total":207,"current":94}
+{"_e":"metro:bundling:progress","_t":1786888604140,"id":"1","progress":0.25,"total":246,"current":104}
+{"_e":"metro:bundling:progress","_t":1786888604245,"id":"1","progress":0.25,"total":275,"current":118}
+{"_e":"metro:bundling:progress","_t":1786888604358,"id":"1","progress":0.25,"total":289,"current":135}
+{"_e":"metro:bundling:progress","_t":1786888604485,"id":"1","progress":0.25,"total":300,"current":148}
+{"_e":"metro:bundling:progress","_t":1786888604584,"id":"1","progress":0.2949912727495432,"total":313,"current":170}
+{"_e":"metro:bundling:progress","_t":1786888604693,"id":"1","progress":0.3542227617491626,"total":331,"current":197}
+{"_e":"metro:bundling:progress","_t":1786888604798,"id":"1","progress":0.4032438429501009,"total":337,"current":214}
+{"_e":"metro:bundling:progress","_t":1786888604899,"id":"1","progress":0.41275241097344034,"total":358,"current":230}
+{"_e":"metro:bundling:progress","_t":1786888605005,"id":"1","progress":0.48246165084002923,"total":370,"current":257}
+{"_e":"metro:bundling:progress","_t":1786888605105,"id":"1","progress":0.5615314250612611,"total":387,"current":290}
+{"_e":"metro:bundling:progress","_t":1786888605205,"id":"1","progress":0.5615314250612611,"total":447,"current":306}
+{"_e":"metro:bundling:progress","_t":1786888605314,"id":"1","progress":0.5615314250612611,"total":451,"current":322}
+{"_e":"metro:bundling:progress","_t":1786888605425,"id":"1","progress":0.5615314250612611,"total":460,"current":340}
+{"_e":"metro:bundling:progress","_t":1786888605531,"id":"1","progress":0.6101420177199801,"total":466,"current":364}
+{"_e":"metro:bundling:progress","_t":1786888605634,"id":"1","progress":0.6130286485441208,"total":493,"current":386}
+{"_e":"metro:bundling:progress","_t":1786888605741,"id":"1","progress":0.6271175114437502,"total":519,"current":411}
+{"_e":"metro:bundling:progress","_t":1786888605847,"id":"1","progress":0.7029196605415721,"total":526,"current":441}
+{"_e":"metro:bundling:progress","_t":1786888605947,"id":"1","progress":0.7595268562154739,"total":537,"current":468}
+{"_e":"metro:bundling:progress","_t":1786888606049,"id":"1","progress":0.8003799358345776,"total":541,"current":484}
+{"_e":"metro:bundling:progress","_t":1786888606150,"id":"1","progress":0.8109594313639504,"total":563,"current":507}
+{"_e":"metro:bundling:progress","_t":1786888606254,"id":"1","progress":0.837636642281582,"total":578,"current":529}
+{"_e":"metro:bundling:progress","_t":1786888606358,"id":"1","progress":0.8454123688122157,"total":596,"current":548}
+{"_e":"metro:bundling:progress","_t":1786888606467,"id":"1","progress":0.8976706814315103,"total":609,"current":577}
+{"_e":"metro:bundling:progress","_t":1786888606567,"id":"1","progress":0.9146651146645928,"total":619,"current":592}
+{"_e":"metro:bundling:progress","_t":1786888606667,"id":"1","progress":0.9179068130087574,"total":644,"current":617}
+{"_e":"metro:bundling:progress","_t":1786888606769,"id":"1","progress":0.95725689681451,"total":648,"current":634}
+{"_e":"metro:bundling:progress","_t":1786888606869,"id":"1","progress":0.95725689681451,"total":682,"current":647}
+{"_e":"metro:bundling:progress","_t":1786888606973,"id":"1","progress":0.95725689681451,"total":691,"current":671}
+{"_e":"metro:bundling:progress","_t":1786888607073,"id":"1","progress":0.9829062977767136,"total":699,"current":693}
+{"_e":"metro:bundling:progress","_t":1786888607174,"id":"1","progress":0.9971448979591836,"total":700,"current":699}
+{"_e":"metro:bundling:progress","_t":1786888608015,"id":"1","progress":0.999,"total":700,"current":700}
+{"_e":"metro:bundling:progress","_t":1786888608122,"id":"1","progress":0.999,"total":702,"current":702}
+{"_e":"metro:bundling:done","_t":1786888608206,"id":"1","total":702,"ms":7314.4641}
+{"_e":"metro:client_log","_t":1786888608499,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786888608500,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786888608500,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786888608500,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786888608500,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"metro:bundling:started","_t":1786888679481,"id":"4","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786888679482,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1786888679515,"id":"4","total":1,"ms":33.3323}
+{"_e":"metro:client_log","_t":1786888679838,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786888679838,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786888679838,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786888679838,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786888679840,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"root:init","_t":1786888698537,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1786888698538,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786888698540,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786888698907,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786888699286,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786888699811,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786888704454,"atlas":false,"workers":12,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1786888707900,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786888707901,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786888707905,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786888708384,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1786888708485,"id":"1","progress":0.04000000000000001,"total":9,"current":2}
+{"_e":"metro:bundling:progress","_t":1786888708594,"id":"1","progress":0.15123456790123457,"total":18,"current":7}
+{"_e":"metro:bundling:progress","_t":1786888708707,"id":"1","progress":0.18367346938775508,"total":21,"current":9}
+{"_e":"metro:bundling:progress","_t":1786888708837,"id":"1","progress":0.22675736961451246,"total":21,"current":10}
+{"_e":"metro:bundling:progress","_t":1786888709994,"id":"1","progress":0.2743764172335601,"total":21,"current":11}
+{"_e":"metro:bundling:progress","_t":1786888710098,"id":"1","progress":0.2743764172335601,"total":54,"current":20}
+{"_e":"metro:bundling:progress","_t":1786888710199,"id":"1","progress":0.2743764172335601,"total":73,"current":35}
+{"_e":"metro:bundling:progress","_t":1786888710299,"id":"1","progress":0.4275147928994083,"total":78,"current":51}
+{"_e":"metro:bundling:progress","_t":1786888710401,"id":"1","progress":0.4275147928994083,"total":146,"current":65}
+{"_e":"metro:bundling:progress","_t":1786888710511,"id":"1","progress":0.4275147928994083,"total":156,"current":80}
+{"_e":"metro:bundling:progress","_t":1786888710612,"id":"1","progress":0.4275147928994083,"total":189,"current":104}
+{"_e":"metro:bundling:progress","_t":1786888710711,"id":"1","progress":0.4275147928994083,"total":250,"current":122}
+{"_e":"metro:bundling:progress","_t":1786888710828,"id":"1","progress":0.4275147928994083,"total":256,"current":134}
+{"_e":"metro:bundling:progress","_t":1786888710928,"id":"1","progress":0.4275147928994083,"total":285,"current":148}
+{"_e":"metro:bundling:progress","_t":1786888711030,"id":"1","progress":0.4275147928994083,"total":298,"current":172}
+{"_e":"metro:bundling:progress","_t":1786888711130,"id":"1","progress":0.4345916670047466,"total":314,"current":207}
+{"_e":"metro:bundling:progress","_t":1786888711234,"id":"1","progress":0.503212890625,"total":320,"current":227}
+{"_e":"metro:bundling:progress","_t":1786888711334,"id":"1","progress":0.503212890625,"total":353,"current":247}
+{"_e":"metro:bundling:progress","_t":1786888711438,"id":"1","progress":0.503212890625,"total":397,"current":264}
+{"_e":"metro:bundling:progress","_t":1786888711548,"id":"1","progress":0.503212890625,"total":414,"current":286}
+{"_e":"metro:bundling:progress","_t":1786888711650,"id":"1","progress":0.503212890625,"total":439,"current":305}
+{"_e":"metro:bundling:progress","_t":1786888711750,"id":"1","progress":0.5425900829081634,"total":448,"current":330}
+{"_e":"metro:bundling:progress","_t":1786888711850,"id":"1","progress":0.5891235764850724,"total":456,"current":350}
+{"_e":"metro:bundling:progress","_t":1786888711951,"id":"1","progress":0.6379677176098821,"total":472,"current":377}
+{"_e":"metro:bundling:progress","_t":1786888712052,"id":"1","progress":0.6464809713294561,"total":495,"current":398}
+{"_e":"metro:bundling:progress","_t":1786888712151,"id":"1","progress":0.6700084419702079,"total":507,"current":415}
+{"_e":"metro:bundling:progress","_t":1786888712252,"id":"1","progress":0.7142350536871777,"total":523,"current":442}
+{"_e":"metro:bundling:progress","_t":1786888712353,"id":"1","progress":0.7594348219167313,"total":529,"current":461}
+{"_e":"metro:bundling:progress","_t":1786888712452,"id":"1","progress":0.8089947255079429,"total":537,"current":483}
+{"_e":"metro:bundling:progress","_t":1786888712552,"id":"1","progress":0.8089947255079429,"total":563,"current":505}
+{"_e":"metro:bundling:progress","_t":1786888712652,"id":"1","progress":0.8089947255079429,"total":594,"current":523}
+{"_e":"metro:bundling:progress","_t":1786888712767,"id":"1","progress":0.8089947255079429,"total":604,"current":538}
+{"_e":"metro:bundling:progress","_t":1786888712871,"id":"1","progress":0.852765016074441,"total":614,"current":567}
+{"_e":"metro:bundling:progress","_t":1786888712971,"id":"1","progress":0.9153337647928995,"total":624,"current":597}
+{"_e":"metro:bundling:progress","_t":1786888713076,"id":"1","progress":0.9153337647928995,"total":652,"current":619}
+{"_e":"metro:bundling:progress","_t":1786888713179,"id":"1","progress":0.9153337647928995,"total":684,"current":639}
+{"_e":"metro:bundling:progress","_t":1786888713280,"id":"1","progress":0.925740885524261,"total":687,"current":661}
+{"_e":"metro:bundling:progress","_t":1786888713381,"id":"1","progress":0.9657168484083416,"total":694,"current":682}
+{"_e":"metro:bundling:progress","_t":1786888713486,"id":"1","progress":0.9971448979591836,"total":700,"current":699}
+{"_e":"metro:bundling:progress","_t":1786888714282,"id":"1","progress":0.999,"total":700,"current":700}
+{"_e":"metro:bundling:progress","_t":1786888714382,"id":"1","progress":0.999,"total":702,"current":702}
+{"_e":"metro:bundling:done","_t":1786888714441,"id":"1","total":702,"ms":6540.692}
+{"_e":"metro:client_log","_t":1786888714749,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786888714750,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786888714750,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786888714750,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786888714751,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"metro:bundling:started","_t":1786888909404,"id":"4","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786888909404,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1786888909433,"id":"4","total":1,"ms":29.0298}
+{"_e":"metro:client_log","_t":1786888909750,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786888909751,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786888909751,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786888909751,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786888909751,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"metro:bundling:started","_t":1786889016146,"id":"7","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786889016146,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1786889016207,"id":"7","total":1,"ms":60.7782}
+{"_e":"metro:client_log","_t":1786889016804,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786889016805,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786889016805,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786889016805,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786889016805,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"metro:client_log","_t":1786889020717,"level":"error","data":["[TypeError: onIncrease is not a function]","\n\n\u001b[1mCode: CartItem.js\u001b[22m\n\u001b[0m \u001b[90m 30 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mTouchableOpacity\u001b[39m \n \u001b[90m 31 |\u001b[39m             style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityButton}\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 32 |\u001b[39m             onPress\u001b[33m=\u001b[39m{() \u001b[33m=>\u001b[39m onIncrease(item\u001b[33m.\u001b[39mid)}\n \u001b[90m    |\u001b[39m                            \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 33 |\u001b[39m           \u001b[33m>\u001b[39m\n \u001b[90m 34 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33mIonicons\u001b[39m name\u001b[33m=\u001b[39m\u001b[32m\"add\"\u001b[39m size\u001b[33m=\u001b[39m{\u001b[35m18\u001b[39m} color\u001b[33m=\u001b[39m\u001b[32m\"#007AFF\"\u001b[39m \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 35 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mTouchableOpacity\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  TouchableOpacity.props.onPress (src\\components\\CartItem.js:32:28)\u001b[39m","\n\n\u001b[1mCode: CartItem.js\u001b[22m\n\u001b[0m \u001b[90m 28 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mText\u001b[39m style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantity}\u001b[33m>\u001b[39m{item\u001b[33m.\u001b[39mquantity}\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 29 |\u001b[39m           \n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 30 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mTouchableOpacity\u001b[39m \n \u001b[90m    |\u001b[39m           \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 31 |\u001b[39m             style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityButton}\n \u001b[90m 32 |\u001b[39m             onPress\u001b[33m=\u001b[39m{() \u001b[33m=>\u001b[39m onIncrease(item\u001b[33m.\u001b[39mid)}\n \u001b[90m 33 |\u001b[39m           \u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  CartItem (src\\components\\CartItem.js:30:11)\u001b[39m\n\u001b[90m  FlatList.props.renderItem (src\\screens\\CartScreen.js:108:11)\u001b[39m\n\u001b[90m  CartScreen (src\\screens\\CartScreen.js:104:7)\u001b[39m\n\u001b[90m  AppNavigator (src\\navigation\\AppNavigator.js:53:7)\u001b[39m\n\u001b[90m  App (App.js:8:7)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1786889021580,"level":"error","data":["[TypeError: onIncrease is not a function]","\n\n\u001b[1mCode: CartItem.js\u001b[22m\n\u001b[0m \u001b[90m 30 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mTouchableOpacity\u001b[39m \n \u001b[90m 31 |\u001b[39m             style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityButton}\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 32 |\u001b[39m             onPress\u001b[33m=\u001b[39m{() \u001b[33m=>\u001b[39m onIncrease(item\u001b[33m.\u001b[39mid)}\n \u001b[90m    |\u001b[39m                            \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 33 |\u001b[39m           \u001b[33m>\u001b[39m\n \u001b[90m 34 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33mIonicons\u001b[39m name\u001b[33m=\u001b[39m\u001b[32m\"add\"\u001b[39m size\u001b[33m=\u001b[39m{\u001b[35m18\u001b[39m} color\u001b[33m=\u001b[39m\u001b[32m\"#007AFF\"\u001b[39m \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 35 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mTouchableOpacity\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  TouchableOpacity.props.onPress (src\\components\\CartItem.js:32:28)\u001b[39m","\n\n\u001b[1mCode: CartItem.js\u001b[22m\n\u001b[0m \u001b[90m 28 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mText\u001b[39m style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantity}\u001b[33m>\u001b[39m{item\u001b[33m.\u001b[39mquantity}\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 29 |\u001b[39m           \n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 30 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mTouchableOpacity\u001b[39m \n \u001b[90m    |\u001b[39m           \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 31 |\u001b[39m             style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityButton}\n \u001b[90m 32 |\u001b[39m             onPress\u001b[33m=\u001b[39m{() \u001b[33m=>\u001b[39m onIncrease(item\u001b[33m.\u001b[39mid)}\n \u001b[90m 33 |\u001b[39m           \u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  CartItem (src\\components\\CartItem.js:30:11)\u001b[39m\n\u001b[90m  FlatList.props.renderItem (src\\screens\\CartScreen.js:108:11)\u001b[39m\n\u001b[90m  CartScreen (src\\screens\\CartScreen.js:104:7)\u001b[39m\n\u001b[90m  AppNavigator (src\\navigation\\AppNavigator.js:53:7)\u001b[39m\n\u001b[90m  App (App.js:8:7)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1786889022198,"level":"error","data":["[TypeError: onIncrease is not a function]","\n\n\u001b[1mCode: CartItem.js\u001b[22m\n\u001b[0m \u001b[90m 30 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mTouchableOpacity\u001b[39m \n \u001b[90m 31 |\u001b[39m             style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityButton}\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 32 |\u001b[39m             onPress\u001b[33m=\u001b[39m{() \u001b[33m=>\u001b[39m onIncrease(item\u001b[33m.\u001b[39mid)}\n \u001b[90m    |\u001b[39m                            \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 33 |\u001b[39m           \u001b[33m>\u001b[39m\n \u001b[90m 34 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33mIonicons\u001b[39m name\u001b[33m=\u001b[39m\u001b[32m\"add\"\u001b[39m size\u001b[33m=\u001b[39m{\u001b[35m18\u001b[39m} color\u001b[33m=\u001b[39m\u001b[32m\"#007AFF\"\u001b[39m \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 35 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mTouchableOpacity\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  TouchableOpacity.props.onPress (src\\components\\CartItem.js:32:28)\u001b[39m","\n\n\u001b[1mCode: CartItem.js\u001b[22m\n\u001b[0m \u001b[90m 28 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mText\u001b[39m style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantity}\u001b[33m>\u001b[39m{item\u001b[33m.\u001b[39mquantity}\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 29 |\u001b[39m           \n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 30 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mTouchableOpacity\u001b[39m \n \u001b[90m    |\u001b[39m           \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 31 |\u001b[39m             style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityButton}\n \u001b[90m 32 |\u001b[39m             onPress\u001b[33m=\u001b[39m{() \u001b[33m=>\u001b[39m onIncrease(item\u001b[33m.\u001b[39mid)}\n \u001b[90m 33 |\u001b[39m           \u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  CartItem (src\\components\\CartItem.js:30:11)\u001b[39m\n\u001b[90m  FlatList.props.renderItem (src\\screens\\CartScreen.js:108:11)\u001b[39m\n\u001b[90m  CartScreen (src\\screens\\CartScreen.js:104:7)\u001b[39m\n\u001b[90m  AppNavigator (src\\navigation\\AppNavigator.js:53:7)\u001b[39m\n\u001b[90m  App (App.js:8:7)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1786889022383,"level":"error","data":["[TypeError: onIncrease is not a function]","\n\n\u001b[1mCode: CartItem.js\u001b[22m\n\u001b[0m \u001b[90m 30 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mTouchableOpacity\u001b[39m \n \u001b[90m 31 |\u001b[39m             style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityButton}\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 32 |\u001b[39m             onPress\u001b[33m=\u001b[39m{() \u001b[33m=>\u001b[39m onIncrease(item\u001b[33m.\u001b[39mid)}\n \u001b[90m    |\u001b[39m                            \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 33 |\u001b[39m           \u001b[33m>\u001b[39m\n \u001b[90m 34 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33mIonicons\u001b[39m name\u001b[33m=\u001b[39m\u001b[32m\"add\"\u001b[39m size\u001b[33m=\u001b[39m{\u001b[35m18\u001b[39m} color\u001b[33m=\u001b[39m\u001b[32m\"#007AFF\"\u001b[39m \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 35 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mTouchableOpacity\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  TouchableOpacity.props.onPress (src\\components\\CartItem.js:32:28)\u001b[39m","\n\n\u001b[1mCode: CartItem.js\u001b[22m\n\u001b[0m \u001b[90m 28 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mText\u001b[39m style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantity}\u001b[33m>\u001b[39m{item\u001b[33m.\u001b[39mquantity}\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 29 |\u001b[39m           \n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 30 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mTouchableOpacity\u001b[39m \n \u001b[90m    |\u001b[39m           \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 31 |\u001b[39m             style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityButton}\n \u001b[90m 32 |\u001b[39m             onPress\u001b[33m=\u001b[39m{() \u001b[33m=>\u001b[39m onIncrease(item\u001b[33m.\u001b[39mid)}\n \u001b[90m 33 |\u001b[39m           \u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  CartItem (src\\components\\CartItem.js:30:11)\u001b[39m\n\u001b[90m  FlatList.props.renderItem (src\\screens\\CartScreen.js:108:11)\u001b[39m\n\u001b[90m  CartScreen (src\\screens\\CartScreen.js:104:7)\u001b[39m\n\u001b[90m  AppNavigator (src\\navigation\\AppNavigator.js:53:7)\u001b[39m\n\u001b[90m  App (App.js:8:7)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1786889029460,"level":"error","data":["[TypeError: onIncrease is not a function]","\n\n\u001b[1mCode: CartItem.js\u001b[22m\n\u001b[0m \u001b[90m 30 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mTouchableOpacity\u001b[39m \n \u001b[90m 31 |\u001b[39m             style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityButton}\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 32 |\u001b[39m             onPress\u001b[33m=\u001b[39m{() \u001b[33m=>\u001b[39m onIncrease(item\u001b[33m.\u001b[39mid)}\n \u001b[90m    |\u001b[39m                            \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 33 |\u001b[39m           \u001b[33m>\u001b[39m\n \u001b[90m 34 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33mIonicons\u001b[39m name\u001b[33m=\u001b[39m\u001b[32m\"add\"\u001b[39m size\u001b[33m=\u001b[39m{\u001b[35m18\u001b[39m} color\u001b[33m=\u001b[39m\u001b[32m\"#007AFF\"\u001b[39m \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 35 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mTouchableOpacity\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  TouchableOpacity.props.onPress (src\\components\\CartItem.js:32:28)\u001b[39m","\n\n\u001b[1mCode: CartItem.js\u001b[22m\n\u001b[0m \u001b[90m 28 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mText\u001b[39m style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantity}\u001b[33m>\u001b[39m{item\u001b[33m.\u001b[39mquantity}\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 29 |\u001b[39m           \n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 30 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mTouchableOpacity\u001b[39m \n \u001b[90m    |\u001b[39m           \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 31 |\u001b[39m             style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityButton}\n \u001b[90m 32 |\u001b[39m             onPress\u001b[33m=\u001b[39m{() \u001b[33m=>\u001b[39m onIncrease(item\u001b[33m.\u001b[39mid)}\n \u001b[90m 33 |\u001b[39m           \u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  CartItem (src\\components\\CartItem.js:30:11)\u001b[39m\n\u001b[90m  FlatList.props.renderItem (src\\screens\\CartScreen.js:108:11)\u001b[39m\n\u001b[90m  CartScreen (src\\screens\\CartScreen.js:104:7)\u001b[39m\n\u001b[90m  AppNavigator (src\\navigation\\AppNavigator.js:53:7)\u001b[39m\n\u001b[90m  App (App.js:8:7)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1786889029926,"level":"error","data":["[TypeError: onIncrease is not a function]","\n\n\u001b[1mCode: CartItem.js\u001b[22m\n\u001b[0m \u001b[90m 30 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mTouchableOpacity\u001b[39m \n \u001b[90m 31 |\u001b[39m             style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityButton}\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 32 |\u001b[39m             onPress\u001b[33m=\u001b[39m{() \u001b[33m=>\u001b[39m onIncrease(item\u001b[33m.\u001b[39mid)}\n \u001b[90m    |\u001b[39m                            \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 33 |\u001b[39m           \u001b[33m>\u001b[39m\n \u001b[90m 34 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33mIonicons\u001b[39m name\u001b[33m=\u001b[39m\u001b[32m\"add\"\u001b[39m size\u001b[33m=\u001b[39m{\u001b[35m18\u001b[39m} color\u001b[33m=\u001b[39m\u001b[32m\"#007AFF\"\u001b[39m \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 35 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mTouchableOpacity\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  TouchableOpacity.props.onPress (src\\components\\CartItem.js:32:28)\u001b[39m","\n\n\u001b[1mCode: CartItem.js\u001b[22m\n\u001b[0m \u001b[90m 28 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mText\u001b[39m style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantity}\u001b[33m>\u001b[39m{item\u001b[33m.\u001b[39mquantity}\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 29 |\u001b[39m           \n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 30 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mTouchableOpacity\u001b[39m \n \u001b[90m    |\u001b[39m           \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 31 |\u001b[39m             style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityButton}\n \u001b[90m 32 |\u001b[39m             onPress\u001b[33m=\u001b[39m{() \u001b[33m=>\u001b[39m onIncrease(item\u001b[33m.\u001b[39mid)}\n \u001b[90m 33 |\u001b[39m           \u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  CartItem (src\\components\\CartItem.js:30:11)\u001b[39m\n\u001b[90m  FlatList.props.renderItem (src\\screens\\CartScreen.js:108:11)\u001b[39m\n\u001b[90m  CartScreen (src\\screens\\CartScreen.js:104:7)\u001b[39m\n\u001b[90m  AppNavigator (src\\navigation\\AppNavigator.js:53:7)\u001b[39m\n\u001b[90m  App (App.js:8:7)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1786889030138,"level":"error","data":["[TypeError: onIncrease is not a function]","\n\n\u001b[1mCode: CartItem.js\u001b[22m\n\u001b[0m \u001b[90m 30 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mTouchableOpacity\u001b[39m \n \u001b[90m 31 |\u001b[39m             style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityButton}\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 32 |\u001b[39m             onPress\u001b[33m=\u001b[39m{() \u001b[33m=>\u001b[39m onIncrease(item\u001b[33m.\u001b[39mid)}\n \u001b[90m    |\u001b[39m                            \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 33 |\u001b[39m           \u001b[33m>\u001b[39m\n \u001b[90m 34 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33mIonicons\u001b[39m name\u001b[33m=\u001b[39m\u001b[32m\"add\"\u001b[39m size\u001b[33m=\u001b[39m{\u001b[35m18\u001b[39m} color\u001b[33m=\u001b[39m\u001b[32m\"#007AFF\"\u001b[39m \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 35 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mTouchableOpacity\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  TouchableOpacity.props.onPress (src\\components\\CartItem.js:32:28)\u001b[39m","\n\n\u001b[1mCode: CartItem.js\u001b[22m\n\u001b[0m \u001b[90m 28 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mText\u001b[39m style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantity}\u001b[33m>\u001b[39m{item\u001b[33m.\u001b[39mquantity}\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 29 |\u001b[39m           \n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 30 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mTouchableOpacity\u001b[39m \n \u001b[90m    |\u001b[39m           \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 31 |\u001b[39m             style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityButton}\n \u001b[90m 32 |\u001b[39m             onPress\u001b[33m=\u001b[39m{() \u001b[33m=>\u001b[39m onIncrease(item\u001b[33m.\u001b[39mid)}\n \u001b[90m 33 |\u001b[39m           \u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  CartItem (src\\components\\CartItem.js:30:11)\u001b[39m\n\u001b[90m  FlatList.props.renderItem (src\\screens\\CartScreen.js:108:11)\u001b[39m\n\u001b[90m  CartScreen (src\\screens\\CartScreen.js:104:7)\u001b[39m\n\u001b[90m  AppNavigator (src\\navigation\\AppNavigator.js:53:7)\u001b[39m\n\u001b[90m  App (App.js:8:7)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1786889030321,"level":"error","data":["[TypeError: onIncrease is not a function]","\n\n\u001b[1mCode: CartItem.js\u001b[22m\n\u001b[0m \u001b[90m 30 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mTouchableOpacity\u001b[39m \n \u001b[90m 31 |\u001b[39m             style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityButton}\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 32 |\u001b[39m             onPress\u001b[33m=\u001b[39m{() \u001b[33m=>\u001b[39m onIncrease(item\u001b[33m.\u001b[39mid)}\n \u001b[90m    |\u001b[39m                            \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 33 |\u001b[39m           \u001b[33m>\u001b[39m\n \u001b[90m 34 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33mIonicons\u001b[39m name\u001b[33m=\u001b[39m\u001b[32m\"add\"\u001b[39m size\u001b[33m=\u001b[39m{\u001b[35m18\u001b[39m} color\u001b[33m=\u001b[39m\u001b[32m\"#007AFF\"\u001b[39m \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 35 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mTouchableOpacity\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  TouchableOpacity.props.onPress (src\\components\\CartItem.js:32:28)\u001b[39m","\n\n\u001b[1mCode: CartItem.js\u001b[22m\n\u001b[0m \u001b[90m 28 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mText\u001b[39m style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantity}\u001b[33m>\u001b[39m{item\u001b[33m.\u001b[39mquantity}\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 29 |\u001b[39m           \n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 30 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mTouchableOpacity\u001b[39m \n \u001b[90m    |\u001b[39m           \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 31 |\u001b[39m             style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityButton}\n \u001b[90m 32 |\u001b[39m             onPress\u001b[33m=\u001b[39m{() \u001b[33m=>\u001b[39m onIncrease(item\u001b[33m.\u001b[39mid)}\n \u001b[90m 33 |\u001b[39m           \u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  CartItem (src\\components\\CartItem.js:30:11)\u001b[39m\n\u001b[90m  FlatList.props.renderItem (src\\screens\\CartScreen.js:108:11)\u001b[39m\n\u001b[90m  CartScreen (src\\screens\\CartScreen.js:104:7)\u001b[39m\n\u001b[90m  AppNavigator (src\\navigation\\AppNavigator.js:53:7)\u001b[39m\n\u001b[90m  App (App.js:8:7)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1786889030491,"level":"error","data":["[TypeError: onIncrease is not a function]","\n\n\u001b[1mCode: CartItem.js\u001b[22m\n\u001b[0m \u001b[90m 30 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mTouchableOpacity\u001b[39m \n \u001b[90m 31 |\u001b[39m             style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityButton}\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 32 |\u001b[39m             onPress\u001b[33m=\u001b[39m{() \u001b[33m=>\u001b[39m onIncrease(item\u001b[33m.\u001b[39mid)}\n \u001b[90m    |\u001b[39m                            \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 33 |\u001b[39m           \u001b[33m>\u001b[39m\n \u001b[90m 34 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33mIonicons\u001b[39m name\u001b[33m=\u001b[39m\u001b[32m\"add\"\u001b[39m size\u001b[33m=\u001b[39m{\u001b[35m18\u001b[39m} color\u001b[33m=\u001b[39m\u001b[32m\"#007AFF\"\u001b[39m \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 35 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mTouchableOpacity\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  TouchableOpacity.props.onPress (src\\components\\CartItem.js:32:28)\u001b[39m","\n\n\u001b[1mCode: CartItem.js\u001b[22m\n\u001b[0m \u001b[90m 28 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mText\u001b[39m style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantity}\u001b[33m>\u001b[39m{item\u001b[33m.\u001b[39mquantity}\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 29 |\u001b[39m           \n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 30 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mTouchableOpacity\u001b[39m \n \u001b[90m    |\u001b[39m           \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 31 |\u001b[39m             style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityButton}\n \u001b[90m 32 |\u001b[39m             onPress\u001b[33m=\u001b[39m{() \u001b[33m=>\u001b[39m onIncrease(item\u001b[33m.\u001b[39mid)}\n \u001b[90m 33 |\u001b[39m           \u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  CartItem (src\\components\\CartItem.js:30:11)\u001b[39m\n\u001b[90m  FlatList.props.renderItem (src\\screens\\CartScreen.js:108:11)\u001b[39m\n\u001b[90m  CartScreen (src\\screens\\CartScreen.js:104:7)\u001b[39m\n\u001b[90m  AppNavigator (src\\navigation\\AppNavigator.js:53:7)\u001b[39m\n\u001b[90m  App (App.js:8:7)\u001b[39m"]}
+{"_e":"metro:bundling:started","_t":1786889052396,"id":"r","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786889052396,"id":"r","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1786889052430,"id":"r","total":1,"ms":33.9925}
+{"_e":"metro:client_log","_t":1786889052887,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786889052888,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786889052888,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786889052888,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786889052888,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"metro:client_log","_t":1786889059875,"level":"error","data":["\n\n\u001b[1mCode: CartScreen.js\u001b[22m\n\u001b[0m \u001b[90m 105 |\u001b[39m       \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mView\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 106 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 107 |\u001b[39m       \u001b[33m<\u001b[39m\u001b[33mFlatList\u001b[39m\n \u001b[90m     |\u001b[39m       \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 108 |\u001b[39m         data\u001b[33m=\u001b[39m{cartItems}\n \u001b[90m 109 |\u001b[39m         keyExtractor\u001b[33m=\u001b[39m{(item) \u001b[33m=>\u001b[39m item\u001b[33m.\u001b[39mid}\n \u001b[90m 110 |\u001b[39m         renderItem\u001b[33m=\u001b[39m{({ item }) \u001b[33m=>\u001b[39m (\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  CartScreen (src\\screens\\CartScreen.js:107:7)\u001b[39m\n\u001b[90m  AppNavigator (src\\navigation\\AppNavigator.js:53:7)\u001b[39m\n\u001b[90m  App (App.js:8:7)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1786889059903,"level":"warn","data":["An error occurred in the <CartItem> component.\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://react.dev/link/error-boundaries to learn more about error boundaries.\n"]}
+{"_e":"metro:client_log","_t":1786889059933,"level":"error","data":["[TypeError: Cannot read properties of undefined (reading 'toFixed')]","\n\n\u001b[1mCode: CartItem.js\u001b[22m\n\u001b[0m \u001b[90m 17 |\u001b[39m           {item\u001b[33m.\u001b[39mname}\n \u001b[90m 18 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 19 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mText\u001b[39m style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mprice}\u001b[33m>\u001b[39m${item\u001b[33m.\u001b[39mprice\u001b[33m.\u001b[39mtoFixed(\u001b[35m2\u001b[39m)}\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m    |\u001b[39m                                                 \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 20 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mView\u001b[39m style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityContainer}\u001b[33m>\u001b[39m\n \u001b[90m 21 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mTouchableOpacity\u001b[39m \n \u001b[90m 22 |\u001b[39m             style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityButton}\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  CartItem (src\\components\\CartItem.js:19:49)\u001b[39m","\n\n\u001b[1mCode: CartScreen.js\u001b[22m\n\u001b[0m \u001b[90m 109 |\u001b[39m         keyExtractor\u001b[33m=\u001b[39m{(item) \u001b[33m=>\u001b[39m item\u001b[33m.\u001b[39mid}\n \u001b[90m 110 |\u001b[39m         renderItem\u001b[33m=\u001b[39m{({ item }) \u001b[33m=>\u001b[39m (\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 111 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mCartItem\u001b[39m \n \u001b[90m     |\u001b[39m           \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 112 |\u001b[39m             item\u001b[33m=\u001b[39m{item} \n \u001b[90m 113 |\u001b[39m             onRemove\u001b[33m=\u001b[39m{removeFromCart}\n \u001b[90m 114 |\u001b[39m             onDecrease\u001b[33m=\u001b[39m{decreaseQuantity}\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  FlatList.props.renderItem (src\\screens\\CartScreen.js:111:11)\u001b[39m\n\u001b[90m  CartScreen (src\\screens\\CartScreen.js:107:7)\u001b[39m\n\u001b[90m  AppNavigator (src\\navigation\\AppNavigator.js:53:7)\u001b[39m\n\u001b[90m  App (App.js:8:7)\u001b[39m"]}
+{"_e":"metro:bundling:started","_t":1786889062914,"id":"w","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786889062914,"id":"w","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1786889062963,"id":"w","total":1,"ms":48.8422}
+{"_e":"metro:client_log","_t":1786889063211,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786889063211,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786889063211,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786889063211,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786889063211,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"metro:client_log","_t":1786889086263,"level":"error","data":["\n\n\u001b[1mCode: CartScreen.js\u001b[22m\n\u001b[0m \u001b[90m 105 |\u001b[39m       \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mView\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 106 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 107 |\u001b[39m       \u001b[33m<\u001b[39m\u001b[33mFlatList\u001b[39m\n \u001b[90m     |\u001b[39m       \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 108 |\u001b[39m         data\u001b[33m=\u001b[39m{cartItems}\n \u001b[90m 109 |\u001b[39m         keyExtractor\u001b[33m=\u001b[39m{(item) \u001b[33m=>\u001b[39m item\u001b[33m.\u001b[39mid}\n \u001b[90m 110 |\u001b[39m         renderItem\u001b[33m=\u001b[39m{({ item }) \u001b[33m=>\u001b[39m (\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  CartScreen (src\\screens\\CartScreen.js:107:7)\u001b[39m\n\u001b[90m  AppNavigator (src\\navigation\\AppNavigator.js:53:7)\u001b[39m\n\u001b[90m  App (App.js:8:7)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1786889086283,"level":"warn","data":["An error occurred in the <CartItem> component.\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://react.dev/link/error-boundaries to learn more about error boundaries.\n"]}
+{"_e":"metro:client_log","_t":1786889086317,"level":"error","data":["[TypeError: Cannot read properties of undefined (reading 'toFixed')]","\n\n\u001b[1mCode: CartItem.js\u001b[22m\n\u001b[0m \u001b[90m 17 |\u001b[39m           {item\u001b[33m.\u001b[39mname}\n \u001b[90m 18 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 19 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mText\u001b[39m style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mprice}\u001b[33m>\u001b[39m${item\u001b[33m.\u001b[39mprice\u001b[33m.\u001b[39mtoFixed(\u001b[35m2\u001b[39m)}\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m    |\u001b[39m                                                 \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 20 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mView\u001b[39m style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityContainer}\u001b[33m>\u001b[39m\n \u001b[90m 21 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mTouchableOpacity\u001b[39m \n \u001b[90m 22 |\u001b[39m             style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityButton}\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  CartItem (src\\components\\CartItem.js:19:49)\u001b[39m","\n\n\u001b[1mCode: CartScreen.js\u001b[22m\n\u001b[0m \u001b[90m 109 |\u001b[39m         keyExtractor\u001b[33m=\u001b[39m{(item) \u001b[33m=>\u001b[39m item\u001b[33m.\u001b[39mid}\n \u001b[90m 110 |\u001b[39m         renderItem\u001b[33m=\u001b[39m{({ item }) \u001b[33m=>\u001b[39m (\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 111 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mCartItem\u001b[39m \n \u001b[90m     |\u001b[39m           \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 112 |\u001b[39m             item\u001b[33m=\u001b[39m{item} \n \u001b[90m 113 |\u001b[39m             onRemove\u001b[33m=\u001b[39m{removeFromCart}\n \u001b[90m 114 |\u001b[39m             onDecrease\u001b[33m=\u001b[39m{decreaseQuantity}\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  FlatList.props.renderItem (src\\screens\\CartScreen.js:111:11)\u001b[39m\n\u001b[90m  CartScreen (src\\screens\\CartScreen.js:107:7)\u001b[39m\n\u001b[90m  AppNavigator (src\\navigation\\AppNavigator.js:53:7)\u001b[39m\n\u001b[90m  App (App.js:8:7)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1786889099982,"level":"warn","data":["An error occurred in the <CartItem> component.\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://react.dev/link/error-boundaries to learn more about error boundaries.\n"]}
+{"_e":"metro:client_log","_t":1786889100021,"level":"error","data":["[TypeError: Cannot read properties of undefined (reading 'toFixed')]","\n\n\u001b[1mCode: CartItem.js\u001b[22m\n\u001b[0m \u001b[90m 18 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 19 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mText\u001b[39m style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mprice}\u001b[33m>\u001b[39m${item\u001b[33m.\u001b[39mprice\u001b[33m.\u001b[39mtoFixed(\u001b[35m2\u001b[39m)}\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 20 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mView\u001b[39m style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityContainer}\u001b[33m>\u001b[39m\n \u001b[90m    |\u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 21 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mTouchableOpacity\u001b[39m \n \u001b[90m 22 |\u001b[39m             style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityButton}\n \u001b[90m 23 |\u001b[39m             onPress\u001b[33m=\u001b[39m{() \u001b[33m=>\u001b[39m onDecrease(item\u001b[33m.\u001b[39mid)}\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  CartItem (src\\components\\CartItem.js:20:9)\u001b[39m","\n\n\u001b[1mCode: CartScreen.js\u001b[22m\n\u001b[0m \u001b[90m 110 |\u001b[39m         renderItem\u001b[33m=\u001b[39m{({ item }) \u001b[33m=>\u001b[39m (\n \u001b[90m 111 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mCartItem\u001b[39m \n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 112 |\u001b[39m             item\u001b[33m=\u001b[39m{item} \n \u001b[90m     |\u001b[39m                        \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 113 |\u001b[39m             onRemove\u001b[33m=\u001b[39m{removeFromCart}\n \u001b[90m 114 |\u001b[39m             onDecrease\u001b[33m=\u001b[39m{decreaseQuantity}\n \u001b[90m 115 |\u001b[39m             onIncrease\u001b[33m=\u001b[39m{addToCart}\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  FlatList.props.renderItem (src\\screens\\CartScreen.js:112:24)\u001b[39m\n\u001b[90m  CartScreen (src\\screens\\CartScreen.js:108:25)\u001b[39m\n\u001b[90m  Tab.Navigator.props.screenOptions (src\\navigation\\AppNavigator.js:54:25)\u001b[39m\n\u001b[90m  App (App.js:8:7)\u001b[39m"]}
+{"_e":"root:init","_t":1786889150630,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1786889150631,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786889150636,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786889150951,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786889151264,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786889151625,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786889155915,"atlas":false,"workers":12,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1786889157988,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786889157988,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786889157992,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786889158472,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1786889158575,"id":"1","progress":0.04000000000000001,"total":3,"current":2}
+{"_e":"metro:bundling:progress","_t":1786889158683,"id":"1","progress":0.1111111111111111,"total":12,"current":4}
+{"_e":"metro:bundling:progress","_t":1786889159391,"id":"1","progress":0.17361111111111113,"total":12,"current":5}
+{"_e":"metro:bundling:progress","_t":1786889159491,"id":"1","progress":0.3511659807956104,"total":27,"current":16}
+{"_e":"metro:bundling:progress","_t":1786889159591,"id":"1","progress":0.3511659807956104,"total":67,"current":30}
+{"_e":"metro:bundling:progress","_t":1786889159692,"id":"1","progress":0.4261188271604938,"total":72,"current":47}
+{"_e":"metro:bundling:progress","_t":1786889159803,"id":"1","progress":0.6283462224866152,"total":82,"current":65}
+{"_e":"metro:bundling:progress","_t":1786889159908,"id":"1","progress":0.7319753086419752,"total":90,"current":77}
+{"_e":"metro:bundling:progress","_t":1786889160011,"id":"1","progress":0.7319753086419752,"total":106,"current":89}
+{"_e":"metro:bundling:progress","_t":1786889160113,"id":"1","progress":0.7389966143428748,"total":114,"current":98}
+{"_e":"metro:bundling:progress","_t":1786889160216,"id":"1","progress":0.756758543195188,"total":123,"current":107}
+{"_e":"metro:bundling:progress","_t":1786889160315,"id":"1","progress":0.756758543195188,"total":141,"current":121}
+{"_e":"metro:bundling:progress","_t":1786889160416,"id":"1","progress":0.8075693937180425,"total":148,"current":133}
+{"_e":"metro:bundling:progress","_t":1786889160517,"id":"1","progress":0.8075693937180425,"total":161,"current":143}
+{"_e":"metro:bundling:progress","_t":1786889160616,"id":"1","progress":0.9121323065269537,"total":178,"current":170}
+{"_e":"metro:bundling:progress","_t":1786889160730,"id":"1","progress":0.9555611665193787,"total":178,"current":174}
+{"_e":"metro:bundling:progress","_t":1786889160890,"id":"1","progress":0.9665761898750157,"total":178,"current":175}
+{"_e":"metro:bundling:progress","_t":1786889160991,"id":"1","progress":0.9665761898750157,"total":197,"current":179}
+{"_e":"metro:bundling:progress","_t":1786889161090,"id":"1","progress":0.9665761898750157,"total":253,"current":190}
+{"_e":"metro:bundling:progress","_t":1786889161191,"id":"1","progress":0.9665761898750157,"total":265,"current":209}
+{"_e":"metro:bundling:progress","_t":1786889161291,"id":"1","progress":0.9665761898750157,"total":332,"current":233}
+{"_e":"metro:bundling:progress","_t":1786889161396,"id":"1","progress":0.9665761898750157,"total":369,"current":248}
+{"_e":"metro:bundling:progress","_t":1786889161497,"id":"1","progress":0.9665761898750157,"total":420,"current":284}
+{"_e":"metro:bundling:progress","_t":1786889161598,"id":"1","progress":0.9665761898750157,"total":428,"current":305}
+{"_e":"metro:bundling:progress","_t":1786889161698,"id":"1","progress":0.9665761898750157,"total":461,"current":329}
+{"_e":"metro:bundling:progress","_t":1786889161801,"id":"1","progress":0.9665761898750157,"total":470,"current":354}
+{"_e":"metro:bundling:progress","_t":1786889161900,"id":"1","progress":0.9665761898750157,"total":487,"current":368}
+{"_e":"metro:bundling:progress","_t":1786889162020,"id":"1","progress":0.9665761898750157,"total":509,"current":390}
+{"_e":"metro:bundling:progress","_t":1786889162120,"id":"1","progress":0.9665761898750157,"total":513,"current":417}
+{"_e":"metro:bundling:progress","_t":1786889162222,"id":"1","progress":0.9665761898750157,"total":532,"current":449}
+{"_e":"metro:bundling:progress","_t":1786889162323,"id":"1","progress":0.9665761898750157,"total":553,"current":473}
+{"_e":"metro:bundling:progress","_t":1786889162423,"id":"1","progress":0.9665761898750157,"total":568,"current":495}
+{"_e":"metro:bundling:progress","_t":1786889162522,"id":"1","progress":0.9665761898750157,"total":589,"current":527}
+{"_e":"metro:bundling:progress","_t":1786889162622,"id":"1","progress":0.9665761898750157,"total":605,"current":551}
+{"_e":"metro:bundling:progress","_t":1786889162723,"id":"1","progress":0.9665761898750157,"total":614,"current":574}
+{"_e":"metro:bundling:progress","_t":1786889162824,"id":"1","progress":0.9665761898750157,"total":636,"current":595}
+{"_e":"metro:bundling:progress","_t":1786889162925,"id":"1","progress":0.9665761898750157,"total":645,"current":620}
+{"_e":"metro:bundling:progress","_t":1786889163024,"id":"1","progress":0.9665761898750157,"total":691,"current":653}
+{"_e":"metro:bundling:progress","_t":1786889163125,"id":"1","progress":0.9665761898750157,"total":695,"current":678}
+{"_e":"metro:bundling:progress","_t":1786889163234,"id":"1","progress":0.9971448979591836,"total":700,"current":699}
+{"_e":"metro:bundling:progress","_t":1786889163479,"id":"1","progress":0.999,"total":700,"current":700}
+{"_e":"metro:bundling:progress","_t":1786889163596,"id":"1","progress":0.999,"total":702,"current":702}
+{"_e":"metro:bundling:done","_t":1786889163715,"id":"1","total":702,"ms":5726.896}
+{"_e":"metro:client_log","_t":1786889164026,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786889164027,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786889164027,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786889164027,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786889164027,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"metro:client_log","_t":1786889211871,"level":"log","data":["Producto recibido:","{\"category\": \"Ropa\", \"description\": \"Camiseta de algodón transpirable para entrenamiento. Ideal para running y gimnasio.\", \"id\": \"1\", \"image\": \"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR55nCP53b5VuGegOLK2yBnSh6oc7lUtYV6VKYDZWg_ZfT6ScesIOai1KtP&s=10\", \"name\": \"Camiseta Deportiva\", \"price\": 25.99, \"rating\": 4.5, \"stock\": 15}"]}
+{"_e":"metro:client_log","_t":1786889214507,"level":"log","data":["Producto recibido:","1"]}
+{"_e":"metro:client_log","_t":1786889214533,"level":"error","data":["Producto inválido:","1","\n\n\u001b[1mCode: CartContext.js\u001b[22m\n\u001b[0m \u001b[90m 11 |\u001b[39m     \n \u001b[90m 12 |\u001b[39m     \u001b[36mif\u001b[39m (\u001b[33m!\u001b[39mproduct \u001b[33m||\u001b[39m \u001b[33m!\u001b[39mproduct\u001b[33m.\u001b[39mid) {\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 13 |\u001b[39m       console\u001b[33m.\u001b[39merror(\u001b[32m'Producto inválido:'\u001b[39m\u001b[33m,\u001b[39m product)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m               \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 14 |\u001b[39m       \u001b[36mreturn\u001b[39m\u001b[33m;\u001b[39m\n \u001b[90m 15 |\u001b[39m     }\n \u001b[90m 16 |\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  addToCart (src\\context\\CartContext.js:13:15)\u001b[39m\n\u001b[90m  TouchableOpacity.props.onPress (src\\components\\CartItem.js:32:28)\u001b[39m","\n\n\u001b[1mCode: CartItem.js\u001b[22m\n\u001b[0m \u001b[90m 28 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mText\u001b[39m style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantity}\u001b[33m>\u001b[39m{item\u001b[33m.\u001b[39mquantity}\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 29 |\u001b[39m           \n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 30 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mTouchableOpacity\u001b[39m \n \u001b[90m    |\u001b[39m           \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 31 |\u001b[39m             style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityButton}\n \u001b[90m 32 |\u001b[39m             onPress\u001b[33m=\u001b[39m{() \u001b[33m=>\u001b[39m onIncrease(item\u001b[33m.\u001b[39mid)}\n \u001b[90m 33 |\u001b[39m           \u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  CartItem (src\\components\\CartItem.js:30:11)\u001b[39m\n\u001b[90m  FlatList.props.renderItem (src\\screens\\CartScreen.js:111:11)\u001b[39m\n\u001b[90m  CartScreen (src\\screens\\CartScreen.js:107:7)\u001b[39m\n\u001b[90m  AppNavigator (src\\navigation\\AppNavigator.js:53:7)\u001b[39m\n\u001b[90m  App (App.js:8:7)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1786889215368,"level":"log","data":["Producto recibido:","1"]}
+{"_e":"metro:client_log","_t":1786889215381,"level":"error","data":["Producto inválido:","1","\n\n\u001b[1mCode: CartContext.js\u001b[22m\n\u001b[0m \u001b[90m 11 |\u001b[39m     \n \u001b[90m 12 |\u001b[39m     \u001b[36mif\u001b[39m (\u001b[33m!\u001b[39mproduct \u001b[33m||\u001b[39m \u001b[33m!\u001b[39mproduct\u001b[33m.\u001b[39mid) {\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 13 |\u001b[39m       console\u001b[33m.\u001b[39merror(\u001b[32m'Producto inválido:'\u001b[39m\u001b[33m,\u001b[39m product)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m               \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 14 |\u001b[39m       \u001b[36mreturn\u001b[39m\u001b[33m;\u001b[39m\n \u001b[90m 15 |\u001b[39m     }\n \u001b[90m 16 |\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  addToCart (src\\context\\CartContext.js:13:15)\u001b[39m\n\u001b[90m  TouchableOpacity.props.onPress (src\\components\\CartItem.js:32:28)\u001b[39m","\n\n\u001b[1mCode: CartItem.js\u001b[22m\n\u001b[0m \u001b[90m 28 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mText\u001b[39m style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantity}\u001b[33m>\u001b[39m{item\u001b[33m.\u001b[39mquantity}\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 29 |\u001b[39m           \n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 30 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mTouchableOpacity\u001b[39m \n \u001b[90m    |\u001b[39m           \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 31 |\u001b[39m             style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityButton}\n \u001b[90m 32 |\u001b[39m             onPress\u001b[33m=\u001b[39m{() \u001b[33m=>\u001b[39m onIncrease(item\u001b[33m.\u001b[39mid)}\n \u001b[90m 33 |\u001b[39m           \u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  CartItem (src\\components\\CartItem.js:30:11)\u001b[39m\n\u001b[90m  FlatList.props.renderItem (src\\screens\\CartScreen.js:111:11)\u001b[39m\n\u001b[90m  CartScreen (src\\screens\\CartScreen.js:107:7)\u001b[39m\n\u001b[90m  AppNavigator (src\\navigation\\AppNavigator.js:53:7)\u001b[39m\n\u001b[90m  App (App.js:8:7)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1786889215830,"level":"log","data":["Producto recibido:","1"]}
+{"_e":"metro:client_log","_t":1786889215838,"level":"error","data":["Producto inválido:","1","\n\n\u001b[1mCode: CartContext.js\u001b[22m\n\u001b[0m \u001b[90m 11 |\u001b[39m     \n \u001b[90m 12 |\u001b[39m     \u001b[36mif\u001b[39m (\u001b[33m!\u001b[39mproduct \u001b[33m||\u001b[39m \u001b[33m!\u001b[39mproduct\u001b[33m.\u001b[39mid) {\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 13 |\u001b[39m       console\u001b[33m.\u001b[39merror(\u001b[32m'Producto inválido:'\u001b[39m\u001b[33m,\u001b[39m product)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m               \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 14 |\u001b[39m       \u001b[36mreturn\u001b[39m\u001b[33m;\u001b[39m\n \u001b[90m 15 |\u001b[39m     }\n \u001b[90m 16 |\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  addToCart (src\\context\\CartContext.js:13:15)\u001b[39m\n\u001b[90m  TouchableOpacity.props.onPress (src\\components\\CartItem.js:32:28)\u001b[39m","\n\n\u001b[1mCode: CartItem.js\u001b[22m\n\u001b[0m \u001b[90m 28 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mText\u001b[39m style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantity}\u001b[33m>\u001b[39m{item\u001b[33m.\u001b[39mquantity}\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 29 |\u001b[39m           \n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 30 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mTouchableOpacity\u001b[39m \n \u001b[90m    |\u001b[39m           \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 31 |\u001b[39m             style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityButton}\n \u001b[90m 32 |\u001b[39m             onPress\u001b[33m=\u001b[39m{() \u001b[33m=>\u001b[39m onIncrease(item\u001b[33m.\u001b[39mid)}\n \u001b[90m 33 |\u001b[39m           \u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  CartItem (src\\components\\CartItem.js:30:11)\u001b[39m\n\u001b[90m  FlatList.props.renderItem (src\\screens\\CartScreen.js:111:11)\u001b[39m\n\u001b[90m  CartScreen (src\\screens\\CartScreen.js:107:7)\u001b[39m\n\u001b[90m  AppNavigator (src\\navigation\\AppNavigator.js:53:7)\u001b[39m\n\u001b[90m  App (App.js:8:7)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1786889215992,"level":"log","data":["Producto recibido:","1"]}
+{"_e":"metro:client_log","_t":1786889216003,"level":"error","data":["Producto inválido:","1","\n\n\u001b[1mCode: CartContext.js\u001b[22m\n\u001b[0m \u001b[90m 11 |\u001b[39m     \n \u001b[90m 12 |\u001b[39m     \u001b[36mif\u001b[39m (\u001b[33m!\u001b[39mproduct \u001b[33m||\u001b[39m \u001b[33m!\u001b[39mproduct\u001b[33m.\u001b[39mid) {\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 13 |\u001b[39m       console\u001b[33m.\u001b[39merror(\u001b[32m'Producto inválido:'\u001b[39m\u001b[33m,\u001b[39m product)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m               \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 14 |\u001b[39m       \u001b[36mreturn\u001b[39m\u001b[33m;\u001b[39m\n \u001b[90m 15 |\u001b[39m     }\n \u001b[90m 16 |\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  addToCart (src\\context\\CartContext.js:13:15)\u001b[39m\n\u001b[90m  TouchableOpacity.props.onPress (src\\components\\CartItem.js:32:28)\u001b[39m","\n\n\u001b[1mCode: CartItem.js\u001b[22m\n\u001b[0m \u001b[90m 28 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mText\u001b[39m style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantity}\u001b[33m>\u001b[39m{item\u001b[33m.\u001b[39mquantity}\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 29 |\u001b[39m           \n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 30 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mTouchableOpacity\u001b[39m \n \u001b[90m    |\u001b[39m           \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 31 |\u001b[39m             style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityButton}\n \u001b[90m 32 |\u001b[39m             onPress\u001b[33m=\u001b[39m{() \u001b[33m=>\u001b[39m onIncrease(item\u001b[33m.\u001b[39mid)}\n \u001b[90m 33 |\u001b[39m           \u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  CartItem (src\\components\\CartItem.js:30:11)\u001b[39m\n\u001b[90m  FlatList.props.renderItem (src\\screens\\CartScreen.js:111:11)\u001b[39m\n\u001b[90m  CartScreen (src\\screens\\CartScreen.js:107:7)\u001b[39m\n\u001b[90m  AppNavigator (src\\navigation\\AppNavigator.js:53:7)\u001b[39m\n\u001b[90m  App (App.js:8:7)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1786889216185,"level":"log","data":["Producto recibido:","1"]}
+{"_e":"metro:client_log","_t":1786889216193,"level":"error","data":["Producto inválido:","1","\n\n\u001b[1mCode: CartContext.js\u001b[22m\n\u001b[0m \u001b[90m 11 |\u001b[39m     \n \u001b[90m 12 |\u001b[39m     \u001b[36mif\u001b[39m (\u001b[33m!\u001b[39mproduct \u001b[33m||\u001b[39m \u001b[33m!\u001b[39mproduct\u001b[33m.\u001b[39mid) {\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 13 |\u001b[39m       console\u001b[33m.\u001b[39merror(\u001b[32m'Producto inválido:'\u001b[39m\u001b[33m,\u001b[39m product)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m               \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 14 |\u001b[39m       \u001b[36mreturn\u001b[39m\u001b[33m;\u001b[39m\n \u001b[90m 15 |\u001b[39m     }\n \u001b[90m 16 |\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  addToCart (src\\context\\CartContext.js:13:15)\u001b[39m\n\u001b[90m  TouchableOpacity.props.onPress (src\\components\\CartItem.js:32:28)\u001b[39m","\n\n\u001b[1mCode: CartItem.js\u001b[22m\n\u001b[0m \u001b[90m 28 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mText\u001b[39m style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantity}\u001b[33m>\u001b[39m{item\u001b[33m.\u001b[39mquantity}\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 29 |\u001b[39m           \n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 30 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mTouchableOpacity\u001b[39m \n \u001b[90m    |\u001b[39m           \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 31 |\u001b[39m             style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mquantityButton}\n \u001b[90m 32 |\u001b[39m             onPress\u001b[33m=\u001b[39m{() \u001b[33m=>\u001b[39m onIncrease(item\u001b[33m.\u001b[39mid)}\n \u001b[90m 33 |\u001b[39m           \u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  CartItem (src\\components\\CartItem.js:30:11)\u001b[39m\n\u001b[90m  FlatList.props.renderItem (src\\screens\\CartScreen.js:111:11)\u001b[39m\n\u001b[90m  CartScreen (src\\screens\\CartScreen.js:107:7)\u001b[39m\n\u001b[90m  AppNavigator (src\\navigation\\AppNavigator.js:53:7)\u001b[39m\n\u001b[90m  App (App.js:8:7)\u001b[39m"]}
+{"_e":"root:init","_t":1786889300396,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1786889300397,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786889300399,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786889300700,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786889301001,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786889301448,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786889305618,"atlas":false,"workers":12,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1786889308809,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786889308810,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786889308812,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786889309329,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1786889309430,"id":"1","progress":0.04000000000000001,"total":7,"current":2}
+{"_e":"metro:bundling:progress","_t":1786889309570,"id":"1","progress":0.16000000000000003,"total":9,"current":4}
+{"_e":"metro:bundling:progress","_t":1786889310054,"id":"1","progress":0.25,"total":9,"current":5}
+{"_e":"metro:bundling:progress","_t":1786889310158,"id":"1","progress":0.29340277777777773,"total":24,"current":13}
+{"_e":"metro:bundling:progress","_t":1786889310258,"id":"1","progress":0.29340277777777773,"total":63,"current":19}
+{"_e":"metro:bundling:progress","_t":1786889310361,"id":"1","progress":0.29340277777777773,"total":98,"current":24}
+{"_e":"metro:bundling:progress","_t":1786889310475,"id":"1","progress":0.29340277777777773,"total":110,"current":30}
+{"_e":"metro:bundling:progress","_t":1786889310575,"id":"1","progress":0.29340277777777773,"total":117,"current":41}
+{"_e":"metro:bundling:progress","_t":1786889310682,"id":"1","progress":0.29340277777777773,"total":154,"current":48}
+{"_e":"metro:bundling:progress","_t":1786889310785,"id":"1","progress":0.29340277777777773,"total":162,"current":58}
+{"_e":"metro:bundling:progress","_t":1786889310886,"id":"1","progress":0.29340277777777773,"total":168,"current":66}
+{"_e":"metro:bundling:progress","_t":1786889310988,"id":"1","progress":0.29340277777777773,"total":201,"current":78}
+{"_e":"metro:bundling:progress","_t":1786889311089,"id":"1","progress":0.29340277777777773,"total":213,"current":88}
+{"_e":"metro:bundling:progress","_t":1786889311191,"id":"1","progress":0.29340277777777773,"total":240,"current":98}
+{"_e":"metro:bundling:progress","_t":1786889311290,"id":"1","progress":0.29340277777777773,"total":246,"current":106}
+{"_e":"metro:bundling:progress","_t":1786889311391,"id":"1","progress":0.29340277777777773,"total":258,"current":116}
+{"_e":"metro:bundling:progress","_t":1786889311491,"id":"1","progress":0.29340277777777773,"total":279,"current":128}
+{"_e":"metro:bundling:progress","_t":1786889311591,"id":"1","progress":0.29340277777777773,"total":285,"current":142}
+{"_e":"metro:bundling:progress","_t":1786889311691,"id":"1","progress":0.29340277777777773,"total":329,"current":160}
+{"_e":"metro:bundling:progress","_t":1786889311791,"id":"1","progress":0.29340277777777773,"total":342,"current":184}
+{"_e":"metro:bundling:progress","_t":1786889311892,"id":"1","progress":0.3524321271665739,"total":347,"current":206}
+{"_e":"metro:bundling:progress","_t":1786889311992,"id":"1","progress":0.3524321271665739,"total":393,"current":223}
+{"_e":"metro:bundling:progress","_t":1786889312092,"id":"1","progress":0.3524321271665739,"total":406,"current":240}
+{"_e":"metro:bundling:progress","_t":1786889312193,"id":"1","progress":0.39282880380876817,"total":426,"current":267}
+{"_e":"metro:bundling:progress","_t":1786889312293,"id":"1","progress":0.47047560123527243,"total":433,"current":297}
+{"_e":"metro:bundling:progress","_t":1786889312393,"id":"1","progress":0.5395692494593363,"total":437,"current":321}
+{"_e":"metro:bundling:progress","_t":1786889312498,"id":"1","progress":0.5395692494593363,"total":465,"current":341}
+{"_e":"metro:bundling:progress","_t":1786889312606,"id":"1","progress":0.5789912733779679,"total":481,"current":366}
+{"_e":"metro:bundling:progress","_t":1786889312706,"id":"1","progress":0.628462930500508,"total":497,"current":394}
+{"_e":"metro:bundling:progress","_t":1786889312808,"id":"1","progress":0.6621491733948481,"total":510,"current":415}
+{"_e":"metro:bundling:progress","_t":1786889312910,"id":"1","progress":0.7187380504230382,"total":519,"current":440}
+{"_e":"metro:bundling:progress","_t":1786889313013,"id":"1","progress":0.7454208959093217,"total":527,"current":455}
+{"_e":"metro:bundling:progress","_t":1786889313113,"id":"1","progress":0.7475693675142384,"total":554,"current":479}
+{"_e":"metro:bundling:progress","_t":1786889313215,"id":"1","progress":0.7894243871877202,"total":565,"current":502}
+{"_e":"metro:bundling:progress","_t":1786889313315,"id":"1","progress":0.7894243871877202,"total":595,"current":518}
+{"_e":"metro:bundling:progress","_t":1786889313416,"id":"1","progress":0.807911795362601,"total":603,"current":542}
+{"_e":"metro:bundling:progress","_t":1786889313529,"id":"1","progress":0.8323600101197504,"total":616,"current":562}
+{"_e":"metro:bundling:progress","_t":1786889313629,"id":"1","progress":0.890966572156476,"total":624,"current":589}
+{"_e":"metro:bundling:progress","_t":1786889313729,"id":"1","progress":0.9348510782274676,"total":634,"current":613}
+{"_e":"metro:bundling:progress","_t":1786889313833,"id":"1","progress":0.9348510782274676,"total":661,"current":633}
+{"_e":"metro:bundling:progress","_t":1786889313934,"id":"1","progress":0.9431936150952173,"total":694,"current":674}
+{"_e":"metro:bundling:progress","_t":1786889314036,"id":"1","progress":0.9971448979591836,"total":700,"current":699}
+{"_e":"metro:bundling:progress","_t":1786889314961,"id":"1","progress":0.999,"total":700,"current":700}
+{"_e":"metro:bundling:progress","_t":1786889315069,"id":"1","progress":0.999,"total":702,"current":702}
+{"_e":"metro:bundling:done","_t":1786889315127,"id":"1","total":702,"ms":6317.882}
+{"_e":"metro:client_log","_t":1786889315424,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786889315424,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786889315424,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786889315424,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786889315424,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"root:init","_t":1786889384615,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1786889384616,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786889384619,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786889384902,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786889385192,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786889385645,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786889389959,"atlas":false,"workers":12,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1786889404958,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786889404959,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786889404962,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786889405063,"id":"1","progress":0.23954820472128546,"total":284,"current":139}
+{"_e":"metro:bundling:progress","_t":1786889405163,"id":"1","progress":0.6862297112898592,"total":472,"current":391}
+{"_e":"metro:bundling:progress","_t":1786889405274,"id":"1","progress":0.915861191123372,"total":628,"current":601}
+{"_e":"metro:bundling:done","_t":1786889405355,"id":"1","total":628,"ms":396.2139}
+{"_e":"metro:client_log","_t":1786889409193,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786889409194,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786889409194,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786889409194,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786889409195,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"root:init","_t":1786889682456,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1786889682458,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786889682463,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786889683281,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786889684220,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786889684922,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786889689142,"atlas":false,"workers":12,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1786889691512,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786889691513,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786889691516,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786889692315,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1786889692415,"id":"1","progress":0.04000000000000001,"total":7,"current":2}
+{"_e":"metro:bundling:progress","_t":1786889692554,"id":"1","progress":0.16000000000000003,"total":9,"current":4}
+{"_e":"metro:bundling:progress","_t":1786889693095,"id":"1","progress":0.25,"total":9,"current":5}
+{"_e":"metro:bundling:progress","_t":1786889693195,"id":"1","progress":0.25,"total":22,"current":11}
+{"_e":"metro:bundling:progress","_t":1786889693324,"id":"1","progress":0.26538108356290174,"total":33,"current":17}
+{"_e":"metro:bundling:progress","_t":1786889693428,"id":"1","progress":0.26538108356290174,"total":91,"current":21}
+{"_e":"metro:bundling:progress","_t":1786889693528,"id":"1","progress":0.26538108356290174,"total":101,"current":24}
+{"_e":"metro:bundling:progress","_t":1786889693637,"id":"1","progress":0.26538108356290174,"total":113,"current":32}
+{"_e":"metro:bundling:progress","_t":1786889693739,"id":"1","progress":0.26538108356290174,"total":115,"current":38}
+{"_e":"metro:bundling:progress","_t":1786889693847,"id":"1","progress":0.26538108356290174,"total":123,"current":50}
+{"_e":"metro:bundling:progress","_t":1786889693948,"id":"1","progress":0.26538108356290174,"total":161,"current":61}
+{"_e":"metro:bundling:progress","_t":1786889694049,"id":"1","progress":0.26538108356290174,"total":191,"current":74}
+{"_e":"metro:bundling:progress","_t":1786889694150,"id":"1","progress":0.26538108356290174,"total":207,"current":84}
+{"_e":"metro:bundling:progress","_t":1786889694250,"id":"1","progress":0.26538108356290174,"total":234,"current":92}
+{"_e":"metro:bundling:progress","_t":1786889694356,"id":"1","progress":0.26538108356290174,"total":256,"current":103}
+{"_e":"metro:bundling:progress","_t":1786889694455,"id":"1","progress":0.26538108356290174,"total":298,"current":116}
+{"_e":"metro:bundling:progress","_t":1786889694555,"id":"1","progress":0.26538108356290174,"total":305,"current":127}
+{"_e":"metro:bundling:progress","_t":1786889694655,"id":"1","progress":0.26538108356290174,"total":325,"current":140}
+{"_e":"metro:bundling:progress","_t":1786889694757,"id":"1","progress":0.26538108356290174,"total":333,"current":151}
+{"_e":"metro:bundling:progress","_t":1786889694861,"id":"1","progress":0.274083044982699,"total":340,"current":178}
+{"_e":"metro:bundling:progress","_t":1786889694964,"id":"1","progress":0.2927637650570986,"total":353,"current":191}
+{"_e":"metro:bundling:progress","_t":1786889695064,"id":"1","progress":0.32153334789800575,"total":358,"current":203}
+{"_e":"metro:bundling:progress","_t":1786889695165,"id":"1","progress":0.34583324153024725,"total":369,"current":217}
+{"_e":"metro:bundling:progress","_t":1786889695266,"id":"1","progress":0.34583324153024725,"total":402,"current":228}
+{"_e":"metro:bundling:progress","_t":1786889695368,"id":"1","progress":0.3473593316063385,"total":414,"current":244}
+{"_e":"metro:bundling:progress","_t":1786889695469,"id":"1","progress":0.3811468183120633,"total":426,"current":263}
+{"_e":"metro:bundling:progress","_t":1786889695573,"id":"1","progress":0.42493340029696924,"total":428,"current":279}
+{"_e":"metro:bundling:progress","_t":1786889695676,"id":"1","progress":0.44751486325802614,"total":435,"current":291}
+{"_e":"metro:bundling:progress","_t":1786889695782,"id":"1","progress":0.5337670190363003,"total":438,"current":320}
+{"_e":"metro:bundling:progress","_t":1786889695891,"id":"1","progress":0.5967910478045613,"total":444,"current":343}
+{"_e":"metro:bundling:progress","_t":1786889695992,"id":"1","progress":0.5967910478045613,"total":472,"current":361}
+{"_e":"metro:bundling:progress","_t":1786889696093,"id":"1","progress":0.5967910478045613,"total":493,"current":380}
+{"_e":"metro:bundling:progress","_t":1786889696194,"id":"1","progress":0.6450995814378145,"total":503,"current":404}
+{"_e":"metro:bundling:progress","_t":1786889696299,"id":"1","progress":0.6841142345444089,"total":509,"current":421}
+{"_e":"metro:bundling:progress","_t":1786889696400,"id":"1","progress":0.7029196605415721,"total":526,"current":441}
+{"_e":"metro:bundling:progress","_t":1786889696503,"id":"1","progress":0.7261181969447966,"total":541,"current":461}
+{"_e":"metro:bundling:progress","_t":1786889696607,"id":"1","progress":0.747408021708116,"total":561,"current":485}
+{"_e":"metro:bundling:progress","_t":1786889696705,"id":"1","progress":0.7603357239496654,"total":578,"current":504}
+{"_e":"metro:bundling:progress","_t":1786889696806,"id":"1","progress":0.7603357239496654,"total":600,"current":514}
+{"_e":"metro:bundling:progress","_t":1786889696906,"id":"1","progress":0.7819821050474696,"total":605,"current":535}
+{"_e":"metro:bundling:progress","_t":1786889697006,"id":"1","progress":0.8288708633513352,"total":614,"current":559}
+{"_e":"metro:bundling:progress","_t":1786889697107,"id":"1","progress":0.8633132887841283,"total":621,"current":577}
+{"_e":"metro:bundling:progress","_t":1786889697211,"id":"1","progress":0.8820966400000001,"total":625,"current":587}
+{"_e":"metro:bundling:progress","_t":1786889697310,"id":"1","progress":0.9132210337024471,"total":631,"current":603}
+{"_e":"metro:bundling:progress","_t":1786889697413,"id":"1","progress":0.9349519499038998,"total":635,"current":614}
+{"_e":"metro:bundling:progress","_t":1786889697528,"id":"1","progress":0.9349519499038998,"total":688,"current":626}
+{"_e":"metro:bundling:progress","_t":1786889697627,"id":"1","progress":0.9349519499038998,"total":691,"current":642}
+{"_e":"metro:bundling:progress","_t":1786889697728,"id":"1","progress":0.9349519499038998,"total":696,"current":667}
+{"_e":"metro:bundling:progress","_t":1786889697830,"id":"1","progress":0.9942611309287884,"total":696,"current":694}
+{"_e":"metro:bundling:progress","_t":1786889697939,"id":"1","progress":0.9971448979591836,"total":700,"current":699}
+{"_e":"metro:bundling:progress","_t":1786889699215,"id":"1","progress":0.999,"total":700,"current":700}
+{"_e":"metro:bundling:progress","_t":1786889699321,"id":"1","progress":0.999,"total":702,"current":702}
+{"_e":"metro:bundling:done","_t":1786889699523,"id":"1","total":702,"ms":8010.8794}
+{"_e":"metro:client_log","_t":1786889700021,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786889700022,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786889700022,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786889700022,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786889700022,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
+{"_e":"root:init","_t":1786890397441,"format":"v0-jsonl","version":"57.0.15"}
+{"_e":"env:mode","_t":1786890397441,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786890397444,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786890397743,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786890398095,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786890398559,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786890402071,"atlas":false,"workers":12,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1786890438448,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1786890438450,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786890438456,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786890438557,"id":"1","progress":0.24343573521706224,"total":227,"current":112}
+{"_e":"metro:bundling:progress","_t":1786890438660,"id":"1","progress":0.3393345272881515,"total":412,"current":240}
+{"_e":"metro:bundling:progress","_t":1786890438759,"id":"1","progress":0.6975003018959064,"total":546,"current":456}
+{"_e":"metro:bundling:progress","_t":1786890438863,"id":"1","progress":0.915861191123372,"total":628,"current":601}
+{"_e":"metro:bundling:done","_t":1786890438974,"id":"1","total":628,"ms":525.5566}
+{"_e":"metro:client_log","_t":1786890439267,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786890439268,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1786890439268,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786890439268,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1786890439268,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
